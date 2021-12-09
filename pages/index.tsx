@@ -50,7 +50,7 @@ const Home: NextPage = () => {
           <Box
             w="full"
             text="white"
-            bg="gray.700"
+            bg="gray.300"
             rounded="lg"
             px="6"
             py="8"
