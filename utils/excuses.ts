@@ -36,7 +36,7 @@ const excuses: TExcuseRecord = createExcuseRecord([
   { text: "I wanted to sleep in.", weight: 1 },
   { text: "I woke up in a good mood and don't want to ruin it.", weight: 1 },
   { text: "I put a mint up my left nostril and am currently in the ER getting it removed.", weight: 1 },
-  { text: "I'm still mad about what Disney did to Star Wards.", weight: 1 },
+  { text: "I'm still mad about what Disney did to Star Wars.", weight: 1 },
   { text: "I need to mow the lawn.", weight: 1 },
   { text: "A cow has broken into my car and I am waiting on the police.", weight: 1 },
   { text: "I honestly forgot that I work here.", weight: 1 },
