@@ -59,7 +59,7 @@ const Home: NextPage = () => {
           >
             <Box hidden={isLoading || !excuse.length} pb="6">
               <Text fontSize="lg" mb="2">
-                I can't come into the office today because...
+                I can&apos;t come into the office today because...
               </Text>
               <Text
                 fontSize="3xl"
@@ -67,7 +67,7 @@ const Home: NextPage = () => {
                 fontWeight="semibold"
                 textAlign="center"
               >
-                "{excuse}"
+                &quot;{excuse}&quot;
               </Text>
             </Box>
             <Center hidden={!isLoading} my="8">
