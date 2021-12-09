@@ -46,6 +46,20 @@ const excuses: TExcuseRecord = createExcuseRecord([
   { text: "I thought today was a public holiday.", weight: 1 },
   { text: "You said we were going to car pool and nobody picked me up.", weight: 1 },
   { text: "I ordered a pizza and I'll need to be home to pay for it.", weight: 1 },
+  { text: "I'm watching an Ebay auction and need to be at home to snipe the other bidders.", weight: 1 },
+  { text: "I don't know the way to the office.", weight: 1 },
+  { text: "I'm not sure how to operate the lock on my door.", weight: 1 },
+  { text: "I'm deathly afraid that the train might become derailed.", weight: 1 },
+  { text: "There was a loud bang outside and now I'm scared.", weight: 1 },
+  { text: "I heard a noise but I am the only one home. I'm too scared to move.", weight: 1 },
+  { text: "I haven't figured that out yet, I'll call you back when I've got a good excuse.", weight: 1 },
+  { text: "WebMD says that I might be dying.", weight: 1 },
+  { text: "I have come down with an ailment that only affects me while I'm in the office.", weight: 1 },
+  { text: "I accidentally ate my cats tinned food instead of tuna and I'm worried I might die.", weight: 1 },
+  { text: "A really mig mouse store my keys. I really shouldn't have bought that novelty cheese key chain.", weight: 1 },
+  { text: "I forgot to do my washing and I don't think my suit is work appropriate.", weight: 1 },
+  { text: "I licked a pole out in the snow and now I'm stuck here.", weight: 1 },
+  { text: "Of a very important and secret mission. If I told you, I would have to kill you.", weight: 1 },
 ]);
 
 const randomIntInclusive = (min: number, max: number) =>
